@@ -46,7 +46,7 @@
 - [Loading a csv file from GitHub in Python](https://medium.com/towards-entrepreneurship/importing-a-csv-file-from-github-in-a-jupyter-notebook-e2c28e7e74a5)
 
 ## Created By 
-- [Vibhor Malik]
+- [Vibhor Malik](https://www.linkedin.com/in/vibhor-malik-593799145/)
 - [Manoj Bisht](https://www.linkedin.com/in/manoj-bisht-b293a657/)
 
 
